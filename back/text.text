@@ -1,0 +1,23 @@
+node index.js
+
+npm init
+npm i express
+
+package.js ------   "type": "module",
+
+npm i nodemon -D
+    "start:dev": "nodemon index.js"
+
+Auth
+    npm i jsonwebtoken
+    npm i bcrypt
+
+DB
+    npm i mongoose
+
+npm i express-validator
+
+
+Facem Auth
+
+Facem  Post
